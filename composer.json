@@ -1,11 +1,11 @@
 {
-    "name": "Digi/account-deletion",
+    "name": "digi/account-deletion",
     "description": "A Laravel package for account deletion with OTP.",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Digi\\AccountDeletion\\": "src/"
+            "digi\\AccountDeletion\\": "src/"
         }
     },
     "authors": [
@@ -21,16 +21,16 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "echo 'The Digi/AccountDeletion package has been installed successfully!'"
+            "echo 'The digi/AccountDeletion package has been installed successfully!'"
         ],
         "post-update-cmd": [
-            "echo 'The Digi/AccountDeletion package has been updated successfully!'"
+            "echo 'The digi/AccountDeletion package has been updated successfully!'"
         ]
     },
     "extra": {
         "laravel":{
             "providers": [
-                "Digi\\AccountDeletion\\AccountDeletionServiceProvider"
+                "digi\\AccountDeletion\\AccountDeletionServiceProvider"
             ]
         }
     }

@@ -1,5 +1,5 @@
 <?php
-namespace Digi\AccountDeletion;
+namespace digi\AccountDeletion;
 
 use Illuminate\Support\ServiceProvider;
 
