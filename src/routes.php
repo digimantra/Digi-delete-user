@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use digi\AccountDeletion\Http\Controllers\AccountController;
+use AppDigiDelete\AccountDeletion\Http\Controllers\AccountController;
 
 Route::middleware('web')->group(function(){
     

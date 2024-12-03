@@ -1,5 +1,5 @@
 <?php
-namespace digi\AccountDeletion\Models;
+namespace AppDigiDelete\AccountDeletion\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
