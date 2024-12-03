@@ -1,8 +1,8 @@
 # Laravel Custom Email Sender
 
-![Packagist Version](https://img.shields.io/packagist/v/digimantra/AppDigiDelete-email)
-![Packagist Downloads](https://img.shields.io/packagist/dt/digimantra/AppDigiDelete-email)
-![GitHub License](https://img.shields.io/github/license/digimantra/AppDigiDelete-email?style=flat-square)
+![Packagist Version](https://img.shields.io/packagist/v/digimantra/appdigidelete-email)
+![Packagist Downloads](https://img.shields.io/packagist/dt/digimantra/appdigidelete-email)
+![GitHub License](https://img.shields.io/github/license/digimantra/appdigidelete-email?style=flat-square)
 
 ## Table of Contents
 

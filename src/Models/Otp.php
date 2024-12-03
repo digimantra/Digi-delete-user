@@ -1,6 +1,6 @@
 <?php
 
-namespace AppDigiDelete\AccountDeletion\Models;
+namespace appdigidelete\AccountDeletion\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;

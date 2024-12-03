@@ -1,6 +1,6 @@
 <?php
 
-namespace AppDigiDelete\AccountDeletion\Mail;
+namespace appdigidelete\AccountDeletion\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

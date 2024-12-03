@@ -1,18 +1,18 @@
 <?php
 
-namespace AppDigiDelete\AccountDeletion\Http\Controllers;
+namespace appdigidelete\AccountDeletion\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Cache;
-use AppDigiDelete\AccountDeletion\Models\DeletedUser;
+use appdigidelete\AccountDeletion\Models\DeletedUser;
 use Illuminate\Support\Facades\Config;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Redirect;
-use AppDigiDelete\AccountDeletion\Mail\OtpMail;
-use AppDigiDelete\AccountDeletion\Models\Otp;
+use appdigidelete\AccountDeletion\Mail\OtpMail;
+use appdigidelete\AccountDeletion\Models\Otp;
 
 
 class AccountController extends Controller
