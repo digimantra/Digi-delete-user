@@ -1,6 +1,6 @@
 {
     "name": "appdigidelete/account-deletion",
-    "description": "A Laravel package for account deletion with OTP.",
+    "description": "A Composer package that simplifies account deletion by providing a pre-built form to delete users via email, automating the entire process for developers",
     "type": "library",
     "license": "MIT",
     "autoload": {
