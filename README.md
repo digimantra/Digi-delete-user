@@ -1,5 +1,8 @@
 # Laravel Delete app users
 
+A Composer package that simplifies account deletion by providing a pre-built form to delete users via email, automating the entire process for developers
+
+ 
 ![Packagist Version](https://img.shields.io/packagist/v/appdigidelete/account-deletion)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/appdigidelete/account-deletion)
 ![GitHub License](https://img.shields.io/github/license/appdigidelete/account-deletion?style=flat-square)
