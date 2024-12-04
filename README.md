@@ -1,8 +1,8 @@
-# Laravel Custom Email Sender
+# Laravel Delete app users
 
-![Packagist Version](https://img.shields.io/packagist/v/digimantra/appdigidelete-email)
-![Packagist Downloads](https://img.shields.io/packagist/dt/digimantra/appdigidelete-email)
-![GitHub License](https://img.shields.io/github/license/digimantra/appdigidelete-email?style=flat-square)
+![Packagist Version](https://img.shields.io/packagist/v/appdigidelete/account-deletion)
+![Packagist Downloads](https://img.shields.io/packagist/dt/appdigidelete/account-deletion)
+![GitHub License](https://img.shields.io/github/license/appdigidelete/account-deletion?style=flat-square)
 
 ## Table of Contents
 
